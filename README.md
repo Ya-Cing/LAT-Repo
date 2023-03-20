@@ -8,5 +8,5 @@
 ## 目錄
 #### * [課程筆記]()
 #### * [作業連結]()
-  * [作業一]()
+  * [作業一](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2008(week3%20work)/HW1.ipynb)
 #### * [專題連結]()
