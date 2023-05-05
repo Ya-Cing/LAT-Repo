@@ -8,7 +8,8 @@
 ## 目錄
 #### * [課程筆記]()
 #### * [作業連結]()
-  * [作業一](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2008(week3%20work)/HW1.ipynb)
-  * [作業二](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2008(week3%20work)/HW2.ipynb)
-  * [作業三](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2029(week6)/HW3.ipynb)
+  * [作業一(Pecu老師)](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2008(week3%20work)/HW1.ipynb)
+  * [作業二(Pecu老師)](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2008(week3%20work)/HW2.ipynb)
+  * [作業三(Pecu老師)](https://github.com/Ya-Cing/LAT-Repo/blob/main/2023%2003%2029(week6)/HW3.ipynb)
+  * [作業四(Ryan老師)]()
 #### * [專題連結]()
