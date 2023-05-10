@@ -46,6 +46,7 @@ async function MS_TextSentimentAnalysis(thisEvent){
   const results = await analyticsClient.analyzeSentiment(documents,"zh-Hant",{ includeOpinionMining: true });
   console.log("[results] ", JSON.stringify(results));
 
+//加入回覆句
   let replyMessage;
   switch(results[0].sentiment){
     case "positive":
