@@ -7,4 +7,5 @@
     * 輸出標籤(tags)
     * 提供一句對照片的完整敘述句
     * 能夠以線上圖片網址或本機端上傳照片進行分析
-![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2005%2003(Homework4)/homework4%20picture%2001.jpg)
+![線上網址分析結果](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2005%2017(Homework5)/HW5-pic-01.jpg)
+![本機上傳分析結果](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2005%2017(Homework5)/HW5-pic-02.jpg)
