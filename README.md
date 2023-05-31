@@ -14,4 +14,4 @@
   * [作業四(Ryan老師)](https://github.com/Ya-Cing/LAT-Repo/tree/main/2023%2005%2003(Homework4))
   * [作業五(Ryan老師)](https://github.com/Ya-Cing/LAT-Repo/tree/main/2023%2005%2017(Homework5))
   * [加分作業(Ryan老師)](https://github.com/Ya-Cing/LAT-Repo/tree/main/2023%2005%2024(%E5%8A%A0%E5%88%86%E4%BD%9C%E6%A5%AD))
-#### * [專題連結]()
+#### * [專題連結](https://github.com/Ya-Cing/LAT-Repo/tree/main/2023%2006%2007%20final-project)
