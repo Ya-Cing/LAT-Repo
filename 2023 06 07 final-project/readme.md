@@ -21,7 +21,11 @@
     * 蒐集用戶回傳資訊，建立資料庫
     *找出更多的相關指標，連結學習與心理壓力
 
-#### *線上網址分析結果
-![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2005%2017(Homework5)/HW5-pic-01.jpg)
-#### *本機上傳分析結果
-![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2005%2017(Homework5)/HW5-pic-02.jpg)
+#### *加入好友的歡迎句
+![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2006%2007%20final-project/greeting.jpg)
+#### *高危險分析結果
+![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2006%2007%20final-project/high.jpg)
+#### *中危險分析結果
+![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2006%2007%20final-project/middle.jpg)
+#### *低危險分析結果
+![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2006%2007%20final-project/low.jpg)
