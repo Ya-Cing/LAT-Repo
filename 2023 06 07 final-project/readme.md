@@ -1,5 +1,5 @@
 ## 臺師大教育大數據微學程期末專題作業─壓力小偵探，你的心理健康嗎？
-### YOUTUBE連結：(https://youtu.be/sjJzrDE4LyY)
+### YOUTUBE連結：https://youtu.be/sjJzrDE4LyY
 ### 指導教師:Ryan、Pecu
 ### 作業發想：
     * 生活在壓力日漸增加的環境，你的心理狀態還健康嗎？
