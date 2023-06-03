@@ -20,7 +20,7 @@
     * 利用爬蟲提取更多關於心理健康的知識，製作成懶人包提供給用戶
     * 從地端伺服器改為雲端伺服器
     * 蒐集用戶回傳資訊，建立資料庫
-    *找出更多的相關指標，連結學習與心理壓力
+    * 找出更多的相關指標，連結學習與心理壓力
 
 #### *加入好友的歡迎句
 ![Alt text](https://raw.githubusercontent.com/Ya-Cing/LAT-Repo/main/2023%2006%2007%20final-project/greeting.jpg)
